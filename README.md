@@ -1,1 +1,1 @@
-# customer_lifetime_value
+# Customer Lifetime Value (CLV) prediction in non-contractual setting
