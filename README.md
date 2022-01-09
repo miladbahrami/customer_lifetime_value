@@ -2,3 +2,6 @@
  Predicting customer lifetime value in non-contractual situations in which customers can make purchase at any time.
 
 In every business it is important to find the most valuable customers. The [Pareto Principle](https://wikipedia.org/wiki/Pareto_principle) says 20% of your customers represent 80% of your sales. So it would be a great opportunity for the company, if we could identify that 20%, not only historically, but in the future as well. CLV can help us to identify these customers.
+
+ # Calculating the Probability of Future Customer Engagement
+In non-subscription retail models, customers come and go with no long-term commitments, making it very difficult to determine whether a customer will return in the future. Determining the probability that a customer will re-engage is critical to the design of effective marketing campaigns. Different messaging and promotions may be required to incentivize customers who have likely dropped out to return to our stores. Engaged customers may be more responsive to marketing that encourages them to expand the breadth and scale of purchases with us. Understanding where our customers land with regard to the probability of future engagement is critical to tailoring our marketing efforts to them.
