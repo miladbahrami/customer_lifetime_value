@@ -1,5 +1,4 @@
-# Customer Lifetime Value (CLV)
- Predicting customer lifetime value in non-contractual situations in which customers can make purchases at any time.
+The aim of this project is to Predict Customer Lifetime Value in non-contractual situations in which customers can make purchases at any time.
 
 # Predicting customer lifetime value and future purchases
 In most cases value of a firm is profits from existing and future customers (a.k.a. Customer Equity). Research done by Frederick Reichheld of Bain & Company (the inventor of the net promoter score) shows increasing customer retention rates by 5% increases profits by 25% to 95% (Reichheld 2001).
