@@ -11,6 +11,7 @@ CLV is the present value of the future (net) cash flows associated with the cust
 Not all customers are equally important to a firm. Maintaining long-term relation with all of them (especially the loss makers) is not optimal because eventually marketing is all about attracting and retaining profitable customers (Kotler and Armstrong 1996). Hence the objective of CLV is firstly on general topics of firm’s profitability and secondly as an input in customer acquisition decision and customer acquisition/retention trade-offs (Berger and Nasr 1998).
 
 In every business it is important to find the most valuable customers. The [Pareto Principle](https://wikipedia.org/wiki/Pareto_principle) says 20% of your customers represent 80% of your sales. So it would be a great opportunity for the company, if we could identify that 20%, not only historically, but in the future as well. CLV can help us to identify these customers.
+![alt text](https://github.com/miladbahrami-fs/customer_lifetime_value/tree/main/data/pareto.jpeg)
 
 ## Objectives
 The primary goal of this work is to build a probabilistic model for forecasting customer lifetime value in non-contractual setting on an individual level.
