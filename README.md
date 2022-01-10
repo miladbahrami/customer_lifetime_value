@@ -21,3 +21,9 @@ Using the results of this exercise, managers should be able to:
 - Distinguish active customers from inactive customers.
 - Generate transaction forecasts for individual customers.
 - Predict the purchase volume of the entire customer base.
+
+## Resouces
+
+[Customer Lifetime Value Prediction on GCP](https://github.com/GoogleCloudPlatform/tensorflow-lifetime-value)
+
+[Databrics Notebook on lifetimes](https://databricks.com/notebooks/CLV_Part_1_Customer_Lifetimes.html#)
